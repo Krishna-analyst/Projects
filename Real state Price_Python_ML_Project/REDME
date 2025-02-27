@@ -1,0 +1,64 @@
+# 📊 Real Estate Price Prediction Project
+
+## 🏠 Overview
+This project focuses on predicting **real estate prices** using various machine learning models. The dataset contains crucial housing attributes such as the number of rooms, property tax rates, student-teacher ratios, and median house prices. By analyzing this data, we aim to create an accurate predictive model that helps estimate housing prices based on multiple features.
+
+## ✨ Features
+- 📌 **Data Cleaning & Preprocessing:** Handling missing values, feature engineering, and data transformations.
+- 📈 **Exploratory Data Analysis (EDA):** Visualizing distributions, scatter plots, and correlations.
+- 🏗️ **Feature Engineering:** Creating new features like **TAXRM (Tax per Room)** to improve predictions.
+- 🏆 **Machine Learning Models:**
+  - Linear Regression 🏛️
+  - Decision Tree 🌳
+  - Random Forest 🌲
+  - AdaBoost 🔥
+- ⚡ **Hyperparameter Tuning:** Implementing **GridSearchCV** and **RandomizedSearchCV** to optimize models.
+- 📊 **Model Performance Evaluation:** Comparing MSE, RMSE, and R² scores.
+
+## 🔧 Installation & Setup
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/real-estate-price-prediction.git
+   cd real-estate-price-prediction
+   ```
+2. **Create a virtual environment (optional but recommended)**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   ```
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Run the Jupyter Notebook**
+   ```bash
+   jupyter notebook
+   ```
+
+## 🚀 Usage
+- Open the **Real_state.ipynb** file in Jupyter Notebook.
+- Run the cells step by step to explore the dataset and build models.
+- Modify hyperparameters in the GridSearchCV and RandomizedSearchCV sections to experiment with different results.
+
+## 📊 Results
+| Model | MSE | RMSE | R² Score |
+|-------|------|------|------|
+| **Linear Regression** | 16.85 | 4.10 | 0.80 |
+| **Decision Tree** | 11.18 | 3.34 | 0.87 |
+| **Random Forest** | 2.78 | 1.67 | 0.97 |
+| **AdaBoost** | 8.62 | 2.94 | 0.90 |
+
+🏆 **Best Model:** Random Forest achieved the highest accuracy with an R² score of **0.97** on training and **0.91** on test data.
+
+## 🔥 Future Improvements
+- Implementing **feature selection** techniques.
+- Applying **Stacking and Boosting** methods.
+- Improving **interpretability** with SHAP & LIME.
+
+## 🤝 Contributing
+Pull requests are welcome! If you find issues or improvements, feel free to submit a PR. 😊
+
+## 📜 License
+This project is licensed under the **MIT License**. Feel free to use and modify it as needed.
+
+---
