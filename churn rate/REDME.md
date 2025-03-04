@@ -100,7 +100,6 @@ churn-prediction/
 
 ## Key Results
 
-- Achieved **XX% accuracy** in churn prediction
 - Identified top 5 churn drivers:
   1. Tenure in Months
   2. Monthly Charge
