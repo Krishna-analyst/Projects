@@ -1,9 +1,5 @@
-
-
 ```markdown
 # Customer Churn Prediction Project
-
-![Power BI Visualization](https://via.placeholder.com/800x400.png?text=Power+BI+Dashboard+Preview)
 
 An end-to-end solution for predicting customer churn using machine learning (Python), data engineering (SQL), and business intelligence (Power BI).
 
@@ -111,19 +107,6 @@ churn-prediction/
   3. Number of Referrals
   4. Contract Type
   5. Online Security Status
-  
-- **Confusion Matrix:**
-  ```
-  [[TN  FP]
-   [FN  TP]] 
-  ```
-
-- **Classification Report:**
-  ```
-               precision    recall  f1-score   support
-      Stayed       0.XX      0.XX      0.XX       XXXX
-     Churned       0.XX      0.XX      0.XX       XXXX
-  ```
 
 ## Technologies Used
 
@@ -136,7 +119,7 @@ churn-prediction/
 
 Contributions welcome! Please follow these steps:
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/your-feature`)
+2. Create your feature branch
 3. Commit your changes
 4. Push to the branch
 5. Open a Pull Request
@@ -147,17 +130,6 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 
 ## Contact
 
-Created by [Your Name] - feel free to connect on [LinkedIn](https://www.linkedin.com/in/your-profile/)!
+Created by Krishna Agrawal- feel free to connect on Check out Krishna Agrawal’s profile on LinkedIn https://in.linkedin.com/in/krishna-agrawal-4b077a351!
 
 ```
-
-**Note:** Replace placeholder values (XX%, [Your Name], LinkedIn URL) with your actual information before publishing. Add actual screenshots of your Power BI dashboards instead of the placeholder image.
-
-This README:
-- Shows technical competency across multiple domains
-- Highlights both technical implementation and business impact
-- Provides clear structure for interviewers to review
-- Demonstrates full project lifecycle understanding
-- Includes measurable outcomes and visual elements
-
-Would you like me to modify any section or add additional information?
