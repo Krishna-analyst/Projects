@@ -129,6 +129,6 @@ This project is licensed under the MIT License - see [LICENSE.md](LICENSE.md) fo
 
 ## Contact
 
-Created by Krishna Agrawal- feel free to connect on Check out Krishna Agrawal’s profile on LinkedIn https://in.linkedin.com/in/krishna-agrawal-4b077a351!
+Created by Krishna Agrawal- feel free to connect on Check out Krishna Agrawal’s profile on LinkedIn https://www.linkedin.com/in/krishna-agrawal1!
 
 ```
