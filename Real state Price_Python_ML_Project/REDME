@@ -96,7 +96,7 @@ The project is organized into the following sections:
 ## How to Use This Project
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/Krishna-analyst/Projects
    ```
 2. Install the required libraries:
    ```bash
